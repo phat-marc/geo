@@ -1,0 +1,39 @@
+#mainNav .navbar-nav .nav-item .nav-link,  div>i.fab {color: #212529;}
+div>i.fab {font-size: 60px;}
+#mainNav.navbar-shrink {background-color: white;}
+a.navbar-brand {padding: 0;}
+
+#brand {
+	display: flex;
+	max-height: 60px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 5px;
+}
+
+header.masthead {background-position: top center; height: 100vh;}
+.bgd1 {background: linear-gradient(to right, #191919, #1d1d24);}
+.bgd2 {background: linear-gradient(to left, #d1d1d1, #ffffff);}
+.intro-heading {text-shadow: 0	0	2px rgba(0,0,0,1);}
+h2.sh2 {color: #222;}
+h3.myg2 {color: #333;}
+button.navbar-toggler {height: 60px;}
+
+.my.portfolio-item > .card {
+	box-shadow: 3px 6px 9px rgba(25,25,25,.25);
+	padding: 0;
+}
+.my.portfolio-item > .card:hover {
+	transform: scale(.99);
+	box-shadow: 2px 4px 6px rgba(5,5,5,.15);
+}
+a.carousel-control-prev, a.carousel-control-next {margin: 6.5rem 0;}
+
+.yell {background-color: #feb500;}
+.myfc {color: #f8f8ff;}
+.myj {text-align: justify;}
+.myul {list-style: none; padding:	0;}
+.mg-bt {margin-bottom: 1em;}
+.mycon {max-width: 125px;}
+.fsz1 {font-size: 1.1em;}
+.mygrey {color: #D3D3D3;}

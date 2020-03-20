@@ -14,7 +14,7 @@ a.navbar-brand {padding: 0;}
 header.masthead {background-position: top center; height: 100vh;}
 .bgd1 {background: linear-gradient(to right, #191919, #1d1d24);}
 .bgd2 {background: linear-gradient(to left, #d1d1d1, #ffffff);}
-.intro-heading {text-shadow: 0	0	2px rgba(0,0,0,1);}
+.intro-heading {text-shadow: 0 0 2px rgba(0,0,0,1);}
 h2.sh2 {color: #222;}
 h3.myg2 {color: #333;}
 button.navbar-toggler {height: 60px;}

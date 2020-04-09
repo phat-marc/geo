@@ -29,6 +29,11 @@ button.navbar-toggler {height: 60px;}
 }
 a.carousel-control-prev, a.carousel-control-next {margin: 6.5rem 0;}
 
+div.modal-content.carousel-inner {
+	margin: 0 auto;
+	max-width: 504px;
+}
+
 .yell {background-color: #feb500;}
 .myfc {color: #f8f8ff;}
 .myj {text-align: justify;}
